@@ -87,4 +87,4 @@ Data provided by [McAuley Lab](https://amazon-reviews-2023.github.io/main.html).
 
 ## Contact
 **Wenyang Cao**  
-[Email](mailto:wenyangcao99@gmail.com) · [LinkedIn](https://linkedin.com/in/wenyangcao)  
+[Email](mailto:wenyangcao99@gmail.com) · [LinkedIn](https://linkedin.com/in/wenyang-wen-cao-888ab72a1)  
